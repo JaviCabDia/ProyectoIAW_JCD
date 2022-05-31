@@ -1,0 +1,41 @@
+html {
+    background-color: #56baed;
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+    height: 92vh;
+    background-color: #badbcc !important;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+.btn {
+    text-transform: uppercase;
+}
+
+.float-container {
+    padding: 20px;
+}
+
+.float-child {
+    width: 50%;
+    float: left;
+    padding: 20px;
+} 
+#content_wrapper {
+  text-align: center;
+}
+.content {
+  display: inline-block;
+}
+table{
+    overflow-y:scroll;
+    height:369px;
+    display:block;
+ }
